@@ -61,20 +61,20 @@ Skills: HTML / CSS / JS
 - 🌱 I’m currently learning advanced Javascript 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RakibHossainGitHub)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Abir Hossain)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RakibulIslamGitHub)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Rakibul Islam Abir)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RakibHossainGitHub)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=RakibulIslamGitHub)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RakibHossainGitHub)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RakibulIslamGitHub)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RakibHossainGitHub&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RakibulIslamGitHub&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RakibHossainGitHub)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RakibulIslamGitHub)  
 
-![GitHub metrics](https://metrics.lecoq.io/RakibHossainGitHub)  
+![GitHub metrics](https://metrics.lecoq.io/RakibulIslamGitHub)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=RakibHossainGitHub)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=RakibulIslamGitHub)  
 
-![Profile views](https://gpvc.arturio.dev/RakibulislamGitHub)  
+![Profile views](https://gpvc.arturio.dev/RakibulIslamGitHub)  
